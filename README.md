@@ -3,7 +3,7 @@ This repository contains SQL queries demonstrating INNER JOIN, LEFT JOIN, RIGHT 
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Jay Navale
+**NAME**: Jay Shankar Navale
 
 **INTERN ID**: CT08JMM
 
