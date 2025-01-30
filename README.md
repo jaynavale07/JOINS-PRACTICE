@@ -41,3 +41,12 @@ SQL JOINs facilitate the retrieval of data from multiple tables based on a commo
 This practice session covered the fundamental SQL JOIN operations using MySQL. By executing INNER, LEFT, RIGHT, and FULL JOINs, we demonstrated how different joins affect data retrieval and help in meaningful data combinations. Understanding these join operations is essential for database management and performing data migrations, such as from MySQL to PostgreSQL or MongoDB, which aligns with the user’s ongoing SQL internship and data migration project.
 
 This exercise not only reinforces SQL query writing skills but also prepares for handling complex database relationships in real-world scenarios.
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/7e56a8cb-5e12-4691-8568-7b5cb614418b)
+![Image](https://github.com/user-attachments/assets/4d7b0a39-3245-444f-9119-a43f7de5cfb5)
+![Image](https://github.com/user-attachments/assets/3f1cf54e-a2a0-42b8-8ba4-2df135c92e27)
+![Image](https://github.com/user-attachments/assets/d677cef7-8400-4c8f-bb24-35e404ef6755)
+![Image](https://github.com/user-attachments/assets/cdbdffb2-6ca2-4de9-ae2e-bab4569d27b1)
+![Image](https://github.com/user-attachments/assets/bf695315-ba1b-4998-b5e0-576dcdb5b72e)
+![Image](https://github.com/user-attachments/assets/2dac1c72-a943-4dec-9a3d-6a7187f26807)
